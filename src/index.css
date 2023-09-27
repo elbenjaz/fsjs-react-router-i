@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/puncakes');
+@import url('https://fonts.cdnfonts.com/css/ubuntu');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-brand {
+    font-family: 'Puncakes', sans-serif;
+}

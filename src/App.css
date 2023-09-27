@@ -1,0 +1,13 @@
+.Navbarmenu a {
+    color: #fff;
+}
+.Navbarmenu a:hover {
+    color: #ddd;
+}
+.Navbarmenu .navbar-brand img {
+    width: 25px;
+}
+
+.Home img {
+    width: 200px;
+}
